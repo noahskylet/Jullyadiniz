@@ -2,4 +2,4 @@
 
 Meu nome é Jullya Diniz, mais conhecido como Noah!
 
---> Estou eswtudando no Alura!!
+--> Estou estudando no Alura!!
